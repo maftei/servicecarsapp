@@ -12,6 +12,7 @@
 	<artifactId>servicecarsapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>servicecarsapp</name>
+	<packaging>war</packaging>
 	<description>Car service application</description>
 
 	<properties>
