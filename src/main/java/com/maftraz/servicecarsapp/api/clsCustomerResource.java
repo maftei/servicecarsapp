@@ -18,14 +18,12 @@ public class clsCustomerResource {
     @PostMapping
     public clsCustomer addCustomer(@RequestBody clsCustomer customer)
     {
-
         return customerService.addCustomer(customer);
     }
 
     @GetMapping
     public List<clsCustomer> getCustomerList()
     {
-
         return customerService.getCustomerList();
     }
 

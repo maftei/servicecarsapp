@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.maftraz</groupId>
 	<artifactId>servicecarsapp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v-0.0.1</version>
 	<name>servicecarsapp</name>
 	<packaging>war</packaging>
 	<description>Car service application</description>
