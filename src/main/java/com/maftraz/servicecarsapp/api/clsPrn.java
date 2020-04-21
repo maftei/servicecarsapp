@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class clsPrn {
 
     @RequestMapping(value = "/index")
-    public String firstIndex()
+    public String  firstIndex()
     {
         return "Cars <b>services</b>";
     }
