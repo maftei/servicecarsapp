@@ -13,7 +13,7 @@ public class clsPrn {
         return "Cars <b>services</b>";
     }
     @RequestMapping("/home")
-    String index(){
+    public String index(){
         //mapped to hostname:port/home/index/
         return "Hello from home";
     }
